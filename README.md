@@ -1,3 +1,3 @@
 # MSMMIL
 
-The code is being sorted out and will be uploaded when it is sorted out
+The code has been uploaded. In the future, we will write a relevant explanation and specify the required environment.
