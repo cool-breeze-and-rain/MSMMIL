@@ -1,0 +1,11 @@
+# ninja log v5
+0	23041	1713145826452461896	/home/ubuntu/zhonghaiqin/code_wsi/MambaMIL/mamba/build/temp.linux-x86_64-cpython-38/csrc/selective_scan/selective_scan.o	7a5878b3d1d50b40
+5	171830	1713145975134571686	/home/ubuntu/zhonghaiqin/code_wsi/MambaMIL/mamba/build/temp.linux-x86_64-cpython-38/csrc/selective_scan/selective_scan_fwd_fp16.o	194794ee751426d4
+4	175448	1713145978786533986	/home/ubuntu/zhonghaiqin/code_wsi/MambaMIL/mamba/build/temp.linux-x86_64-cpython-38/csrc/selective_scan/selective_scan_fwd_bf16.o	66f457e103df78dd
+5	176256	1713145979622525408	/home/ubuntu/zhonghaiqin/code_wsi/MambaMIL/mamba/build/temp.linux-x86_64-cpython-38/csrc/selective_scan/selective_scan_fwd_fp32.o	f7c90be6550a1894
+3	294862	1713146098229493874	/home/ubuntu/zhonghaiqin/code_wsi/MambaMIL/mamba/build/temp.linux-x86_64-cpython-38/csrc/selective_scan/selective_scan_bwd_fp32_real.o	80af391f5ae84fb6
+2	316143	1713146119477344576	/home/ubuntu/zhonghaiqin/code_wsi/MambaMIL/mamba/build/temp.linux-x86_64-cpython-38/csrc/selective_scan/selective_scan_bwd_fp16_real.o	713bfee7ff8a450e
+1	322356	1713146125629303177	/home/ubuntu/zhonghaiqin/code_wsi/MambaMIL/mamba/build/temp.linux-x86_64-cpython-38/csrc/selective_scan/selective_scan_bwd_bf16_real.o	548d7aca52c15029
+2	397122	1713146200404861395	/home/ubuntu/zhonghaiqin/code_wsi/MambaMIL/mamba/build/temp.linux-x86_64-cpython-38/csrc/selective_scan/selective_scan_bwd_fp32_complex.o	f41bc701ae3cc820
+1	397436	1713146200660860066	/home/ubuntu/zhonghaiqin/code_wsi/MambaMIL/mamba/build/temp.linux-x86_64-cpython-38/csrc/selective_scan/selective_scan_bwd_fp16_complex.o	10e5d524fa85afcc
+1	432983	1713146236272686821	/home/ubuntu/zhonghaiqin/code_wsi/MambaMIL/mamba/build/temp.linux-x86_64-cpython-38/csrc/selective_scan/selective_scan_bwd_bf16_complex.o	3e9902ca27c0522e
